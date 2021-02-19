@@ -1,0 +1,2 @@
+read name // read the input from the script
+echo Welcome $name 
