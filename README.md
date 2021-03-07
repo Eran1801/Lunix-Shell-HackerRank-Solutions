@@ -11,9 +11,6 @@
 ## Description
 Compiled solutions with related learning explanations for the Linux Shell Challenges on HackerRank. 
 
-Domains included: 
-* [Bash Challenges](https://github.com/Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions#bash-challenges)
-
 ## Bash Challenges
 
 | Number | Challenges |
